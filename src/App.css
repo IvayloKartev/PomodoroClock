@@ -1,0 +1,37 @@
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.variable-changer {
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+}
+.fa-solid, .fas {
+  font-size: 30px;
+}
+.vc-panel {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.c-group {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+.clock-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+.center {
+  text-align: center;
+}
