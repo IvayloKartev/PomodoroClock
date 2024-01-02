@@ -8,8 +8,8 @@ import React, {useState, useEffect} from 'react';
 import ReactDOM from 'react-dom/client';
 
 function App() {
-    const [breakT, setBreakT] = useState(5);
-    const [session, setSession] = useState(25);
+    const [breakT, setBreakT] = useState(10);
+    const [session, setSession] = useState(40);
     const [activateClock, setActivateClock] = useState(false);
     const [min, setMin] = useState(session);
     const [sec, setSec] = useState(0);
@@ -65,8 +65,8 @@ function App() {
       setMin(25);
       setClockState("Session");
       setSec(0);
-      setSession(25);
-      setBreakT(5);
+      setSession(40);
+      setBreakT(10);
       setActivateClock(false);
     }
 
