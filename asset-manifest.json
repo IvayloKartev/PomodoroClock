@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a233a242.css",
-    "main.js": "/static/js/main.a11e1da1.js",
-    "static/js/787.c804903e.chunk.js": "/static/js/787.c804903e.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.a233a242.css.map": "/static/css/main.a233a242.css.map",
-    "main.a11e1da1.js.map": "/static/js/main.a11e1da1.js.map",
-    "787.c804903e.chunk.js.map": "/static/js/787.c804903e.chunk.js.map"
+    "main.css": "/PomodoroClock/static/css/main.a233a242.css",
+    "main.js": "/PomodoroClock/static/js/main.0475d988.js",
+    "static/js/787.c804903e.chunk.js": "/PomodoroClock/static/js/787.c804903e.chunk.js",
+    "static/media/logo.svg": "/PomodoroClock/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PomodoroClock/index.html",
+    "main.a233a242.css.map": "/PomodoroClock/static/css/main.a233a242.css.map",
+    "main.0475d988.js.map": "/PomodoroClock/static/js/main.0475d988.js.map",
+    "787.c804903e.chunk.js.map": "/PomodoroClock/static/js/787.c804903e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a233a242.css",
-    "static/js/main.a11e1da1.js"
+    "static/js/main.0475d988.js"
   ]
 }
